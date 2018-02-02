@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Spanish Quiz</string>
+    <string name="general_info">general info from the country?</string>
+    <string name="how_much_do_you">How much do you know about</string>
+    <string name="spain">Spain?</string>
+    <string name="first_things">First things first, tell me about you</string>
+    <string name="name">Please enter your name here</string>
+    <string name="where_is_Spain">Do you know where Spain is?</string>
+    <string name="europe">Europe</string>
+    <string name="southamerica">South America</string>
+    <string name="china">Somewhere in between China and India</string>
+    <string name="spanish_speakers">How many people speak Spanish around the world?</string>
+    <string name="one_o_five">105 million people.</string>
+    <string name="four_o_six">406 million people.</string>
+    <string name="real_language">Is Spanish even a real language?</string>
+    <string name="best_wines">Spain also produces the best wines around the world, but</string>
+    <string name="prefer_beer">Spanish people clearly prefer beer.</string>
+    <string name="prefer_wine">out of discussion, we prefer wine.</string>
+    <string name="not_alcohol">we hardly ever drink alcohol.</string>
+    <string name="love_the_most">What do tourists love the most about Spain?</string>
+    <string name="good_weather">our good weather.</string>
+    <string name="fine_scotch">our fine Scotch.</string>
+    <string name="love_everything">come on, tourist love everything about Spain!</string>
+    <string name="amount_tourists">That\'s why, in 2013, Spain</string>
+    <string name="third_most_popular">was the world\'s third most popular destination</string>
+    <string name="first_most_popular">was the wolrd\'s first most popular destination</string>
+    <string name="no_tourists">no tourists came to Spain that year</string>
+    <string name="spain_produces">Spain produces</string>
+    <string name="produces_half">half of the world\'s olive oil</string>
+    <string name="produces_seventy">70% of the world\'s olive oil</string>
+    <string name="produces_none">no significant amount of the world\'s olive oil</string>
+    <string name="women_rule">Women rule in Spain and</string>
+    <string name="forty_new_business">set up 40% of all new business in Spain</string>
+    <string name="sixty_new_business">set up 60% of all new business in Spain</string>
+    <string name="stay_home">stay at home dedicated to housework</string>
+    <string name="more_info">Would you like to know more about</string>
+    <string name="gastronomy">gastronomy?</string>
+    <string name="result">Send Result</string>
+
+
+
+</resources>
